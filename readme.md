@@ -14,6 +14,8 @@ nix develop github:pwnwriter/pwnflake
 Tools included:
 
 * `nixd`
+* `nil_ls`
+* `nixfmt`
 
 </details>
 

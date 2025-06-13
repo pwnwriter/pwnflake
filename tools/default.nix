@@ -1,4 +1,8 @@
 { pkgs }:
 pkgs.mkShell {
-  packages = with pkgs; [ nixd ];
+  packages = with pkgs; [
+    nixd
+    nil
+    nixfmt
+  ];
 }
